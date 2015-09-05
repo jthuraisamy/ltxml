@@ -1,0 +1,25 @@
+{
+  "name": "ltxml",
+  "version": "1.0.0",
+  "description": "LINQ to XML for JavaScript",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jthuraisamy/ltxml.git"
+  },
+  "keywords": [
+    "ltxml",
+    "xml",
+    "linq",
+    "openxml"
+  ],
+  "author": "jthuraisamy",
+  "license": "Ms-PL",
+  "bugs": {
+    "url": "https://github.com/jthuraisamy/ltxml/issues"
+  },
+  "homepage": "https://github.com/jthuraisamy/ltxml#readme",
+  "dependencies": {
+    "linq": "^3.0.5"
+  }
+}
